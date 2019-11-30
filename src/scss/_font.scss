@@ -1,0 +1,18 @@
+$h1:24px;
+$h2:16px;
+$h6 : 14px;
+
+@mixin fundoFont {
+    font-size: 20px;
+}
+
+@mixin textfont {
+    font-size: 16px
+}
+
+@mixin textsize {
+    font-size: 24px
+}
+@mixin textlabelfont {
+    font-size: 15px;
+}
